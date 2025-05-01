@@ -1,1 +1,1 @@
-# Elevator_task_7
+I connected to an Oracle SQL database using Python and executed a query to import sales data. Specifically, we retrieved each product's total quantity sold and total revenue by grouping the data by product name. Then, we visualized the revenue per product using a bar chart to easily compare how different products performed in terms of revenue.
